@@ -8,7 +8,7 @@ This repo is dedicated to providing beginner-friendly, step-by-step guides (in B
 
 ---
 
-## 📂 Contents
+## 📂 Guide
 
 | Guide Title | Description | Language | Link |
 |-------------|-------------|----------|------|
