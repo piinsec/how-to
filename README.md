@@ -13,12 +13,12 @@ This repo is dedicated to providing beginner-friendly, step-by-step guides (in B
 | Guide Title | Description | Language | Link |
 |-------------|-------------|----------|------|
 | ✅ Virtualbox Installation | Virtualbox ကို windows မှာ install လုပ်ခြင်း | Burmese 🇲🇲 | [View Guide](vbox-install/vbox-install.md) |
-| ✅ Kali Linux Installation | Install Kali Linux in VirtualBox on Windows | Burmese 🇲🇲 | [View Guide](guides/kali-linux-install.md) |
-| 💿 Windows 10 in VirtualBox | Step-by-step Windows 10 installation in VirtualBox | Burmese 🇲🇲 | [View Guide](guides/windows10-vbox.md) |
-| 🧰 Pentesting on Windows | Tool installation & setup guide for bug bounty on Windows | English | [View Guide](guides/pentest-with-windows.md) |
-| 🌐 Create Local Pentest WebApp | Build your own hacking toolkit web app with Flask | Burmese 🇲🇲 | [View Guide](guides/local-webapp-setup.md) |
-| 🔍 Google Dork Tool | Build a Google Dork tool (frontend + backend) | Burmese 🇲🇲 | [View Guide](guides/google-dork-tool.md) |
-| 🎬 YouTube Scripts | Scripts for PiiN Security YouTube videos | Burmese 🇲🇲 | [View Folder](scripts/) |
+| ✅ Kali Linux Installation | Install Kali Linux in VirtualBox on Windows | Burmese 🇲🇲 | [View Guide](kali-install/kali-install.md) |
+| 💿 Windows 10 in VirtualBox | Step-by-step Windows 10 installation in VirtualBox | Burmese 🇲🇲 | [View Guide](windows-install/windows-install.md) |
+| 🧰 VScode on Windows | Vscode installation & setup guide on Windows | Burmese 🇲🇲 | [View Guide](vscode-install/vscode.md) |
+| 🌐 Pentest tools on Windows | Pentest tools installation on Windows | Burmese 🇲🇲 | [View Guide](#) |
+| 🔍 Google Dork Tool | Build a Google Dork tool (frontend + backend) | Burmese 🇲🇲 | [View Guide](#) |
+| 🎬 YouTube Channel | PiiN Security YouTube videos | Burmese 🇲🇲 | [View Guide](#) |
 
 ---
 
