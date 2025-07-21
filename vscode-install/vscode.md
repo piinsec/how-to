@@ -19,13 +19,13 @@ Visual Studio Code (VSCode) သည် Microsoft မှတည်ဆောက်�
 
 👉 [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
-<img src="images/1.png" alt="Vscode Download" width="600"/>
+<img src="images/1.PNG" alt="Vscode Download" width="600"/>
 
 ---
 
 ### ၂။ `Download for Windows` ကိုနှိပ်ပါ
 
-<img src="images/2.png" alt="Vscode download" width="600"/>
+<img src="images/2.PNG" alt="Vscode download" width="600"/>
 
 Download file name: `VSCodeUserSetup-x64-*.exe`
 
@@ -35,15 +35,13 @@ Download file name: `VSCodeUserSetup-x64-*.exe`
 
 VSCode Installer ကို double-click နှိပ်ပြီး install လုပ်ပါ။
 
-<img src="images/3.png" alt="Vscode run" width="600"/>
-
 ---
 
 ### ၄။ License Agreement ကို Accept လုပ်ပါ
 
 ✔️ “I accept the agreement” ကိုရွေးပြီး `Next` နှိပ်ပါ။
 
-<img src="images/4.png" alt="vscode" width="600"/>
+<img src="images/3.PNG" alt="vscode" width="600"/>
 
 ---
 
@@ -51,7 +49,7 @@ VSCode Installer ကို double-click နှိပ်ပြီး install လ�
 
 Default location ကိုထားခဲ့လို့ရပါတယ်။ `Next` နှိပ်ပါ။
 
-<img src="images/5.png" alt="Vscode" width="600"/>
+<img src="images/4.PNG" alt="Vscode" width="600"/>
 
 ---
 
@@ -63,7 +61,7 @@ Default location ကိုထားခဲ့လို့ရပါတယ်။ `N
 - ☑️ Register Code as editor for supported file types
 - ☑️ Add “Open with Code” action to Windows Explorer
 
-<img src="images/6.png" alt="vscode" width="600"/>
+<img src="images/6.PNG" alt="vscode" width="600"/>
 
 ---
 
@@ -79,13 +77,7 @@ Default location ကိုထားခဲ့လို့ရပါတယ်။ `N
 
 Finish ကိုနှိပ်ပြီး VSCode ကိုဖွင့်ပါ။
 
-<img src="images/8.png" alt="vscode" width="600"/>
-
----
-
-## ✅ Install ပြီးသွားတဲ့နောက် VSCode Interface
-
-<img src="images/9.png" alt="vscode" width="600"/>
+<img src="images/8.PNG" alt="vscode" width="600"/>
 
 ---
 
