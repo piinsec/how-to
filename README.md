@@ -14,7 +14,7 @@ This repo is dedicated to providing beginner-friendly, step-by-step guides (in B
 |-------------|-------------|----------|------|
 | ✅ Virtualbox Installation | Virtualbox ကို windows မှာ install လုပ်နည်း | Burmese 🇲🇲 | [View Guide](vbox-install/vbox-install.md) |
 | ✅ Kali Linux Installation | Virtualbox မှာ Kali တင်နည်း | Burmese 🇲🇲 | [View Guide](kali-install/kali-install.md) |
-| 💿 Kali Storage expend on Vbox | VirtualBox မှာ Kali ရဲ့ storage space ကို ထပ်ချဲ့ခြင်း | Burmese 🇲🇲 | [View Guide](storage-space-expend-kali-vbox/Incrase-disk-in-vbox.md) |
+| 💿 Kali Storage expend on Vbox | VirtualBox မှာ Kali ရဲ့ storage space ကို ထပ်ချဲ့ခြင်း | Burmese 🇲🇲 | [View Guide](storage-space-expend-kali-vbox/Increase-disk-in-vbox.md) |
 | 💿 Windows 10 in VirtualBox | VirtualBox မှာ Windows တင်နည်း | Burmese 🇲🇲 | [View Guide](windows-install/windows-install.md) |
 | 🧰 VScode on Windows | Windows မှာ Vscode တင်နည်း  | Burmese 🇲🇲 | [View Guide](vscode-install/vscode.md) |
 | 🌐 Pentest tools on Windows | Pentest tools installation on Windows | Burmese 🇲🇲 | [View Guide](#) |
