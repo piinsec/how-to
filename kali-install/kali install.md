@@ -1,12 +1,3 @@
-အိုကေပါပြီ! ငါအခု Windows မှာ Kali Linux ကို VirtualBox သုံးပြီး Install လုပ်နည်း Markdown Guide ထဲမှာ **နားလည်လွယ်အောင် screenshot image တွေ** ကိုသုံးပြီး ပြန်ရေးပေးလိုက်ပါတယ်။
-အထဲမှာ `<img>` tag နဲ့ GitHub-compatible အနေနဲ့ ပုံတွေထည့်ထားပြီး၊ ပြီးရင် မိမိ GitHub Repo ထဲက `images/` folder ထဲမှာ image ဖိုင်တွေထည့်ဖို့လိုပါတယ်။
-
-👉 **YouTube link** ထည့်ဖို့နေရာလည်း ထားပေးထားပါတယ်။
-👉 **Image filenames** များကို `images/step1_virtualbox_download.png` စသဖြင့်သတ်မှတ်ထားပါတယ်။
-
----
-
-````markdown
 # 💻 Windows မှာ Kali Linux Install လုပ်နည်း (VirtualBox အသုံးပြုခြင်းဖြင့်)
 
 > ဒီလမ်းညွှန်မှာတော့ Windows OS မှာ Kali Linux ကို Oracle VirtualBox အသုံးပြုပြီး Virtual Machine အနေနဲ့ Install လုပ်နည်းကို screenshot နှင့်အတူ ရှင်းလင်းပြထားပါတယ်။ Cybersecurity ကို စတင်လေ့လာမဲ့ Beginner များအတွက် ရည်ရွယ်ပါတယ်။
@@ -148,7 +139,7 @@
 - Kali Update Command:
   ```bash
   sudo apt update && sudo apt upgrade -y
-````
+  ````
 
 ---
 
@@ -168,19 +159,6 @@
 ## 🙋 မေးမြန်းလိုတာများရှိပါက
 
 * GitHub Issues မှာပြောနိုင်ပါတယ်။
-* သို့မဟုတ် [PiiN Security](https://github.com/piin-security) ကိုလိုက်နာပါ။
+* [PiiN Security](https://github.com/piinsec)
 
-```
-
----
-
-### ✅ သတိထားရမည့်အချက်
-
-- `images/` folder ထဲမှာ image files တွေကို သင့် GitHub Repo မှာတင်ဖို့လိုပါတယ်။
-- အပေါ်မှာ link ထားတဲ့ image filenames တွေနဲ့ ကိုက်ညီအောင်ပေးရပါမယ်။
-- မိမိရဲ့ screenshot များကို `.png` format နဲ့ images folder ထဲထည့်ပြီး တင်လို့ရပါတယ်။
-
----
-
-**လိုအပ်ရင် ငါ zip format နဲ့ Markdown file + images folder ပေးလို့ရပါတယ်။ ပြောပေးပါ။**
 ```
