@@ -169,5 +169,3 @@
 
 * GitHub Issues မှာပြောနိုင်ပါတယ်။
 * [PiiN Security](https://github.com/piinsec)
-
-```
